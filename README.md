@@ -17,5 +17,7 @@ Image of picked particles and cross-correlation map:
 
 MRC map 3D to 2D averaging with at all axes:
 ![average3D2D.py](https://github.com/dzyla/Cryopython/blob/master/2D1.png)
+
 ![average3D2D.py](https://github.com/dzyla/Cryopython/blob/master/2D2.png)
+
 ![average3D2D.py](https://github.com/dzyla/Cryopython/blob/master/2D3.png)
