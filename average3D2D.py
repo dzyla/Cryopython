@@ -59,3 +59,6 @@ def average3d_to_2d_cv2():
             if k == 27:
                 cv2.destroyAllWindows()
                 quit(1)
+               
+if __name__ == "__main__":
+   average3d_to_2d_cv2()
