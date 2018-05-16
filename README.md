@@ -12,3 +12,10 @@ Autopicking with preselected class:
 ![Super simple class selection](https://github.com/dzyla/Cryopython/blob/master/myplot1.png)
 Image of picked particles and cross-correlation map:
 ![Scikit-image based cross-corellation autopick](https://github.com/dzyla/Cryopython/blob/master/myplot2.png)
+
+# Addtional tools
+
+MRC map 3D to 2D averaging with at all axes:
+![average3D2D.py](https://github.com/dzyla/Cryopython/blob/master/2D1.png)
+![average3D2D.py](https://github.com/dzyla/Cryopython/blob/master/2D2.png)
+![average3D2D.py](https://github.com/dzyla/Cryopython/blob/master/2D3.png)
